@@ -6,9 +6,9 @@ class ReadAllValues {
             return;
         }
 
-
         for (int i = 0; i < args.length; i++) {
             System.err.println("Value of args[" + i + "] is : " + args[i]);
+            
         }
     }
 }
