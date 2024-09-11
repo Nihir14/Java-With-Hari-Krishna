@@ -5,7 +5,7 @@ class ReadingAllIntegerValues {
         for (int i = 0; i < args.length; i++) {
             try {
                 int value = Integer.parseInt(args[i]);
-                System.err.println(value);
+                System.out.println(value);
             } catch (NumberFormatException e) {
                 /* No-Operation */ }
         }
