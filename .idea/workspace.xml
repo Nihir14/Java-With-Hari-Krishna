@@ -5,57 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2133cb6-5378-4733-8daf-fa81d1899788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Codes/project/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Codes/project/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Codes/project/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Codes/project/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 144243.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 144310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 144530.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 144602.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 144746.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 144907.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 145031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 145151.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 145215.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 145231.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 160109.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 160504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 161027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 162035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 162517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 164248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 171125.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-04 171239.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 113121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 114232.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 114329.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 114402.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 114425.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 114739.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 132449.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 140503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 205237.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 205302.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 205321.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 205454.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 205738.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 205809.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 205940.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 210032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 210232.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 210427.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 210454.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 210517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 211242.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 211302.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 211518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 225022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 225454.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 231050.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/Notes/Variables and Variables/Screenshot 2024-10-05 231308.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/out/production/Variables and Types of Variables/p1/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 2 - OOPs/01 Basics/Variables and Types of Variables/out/production/Variables and Types of Variables/p1/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/FilePathPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/FilePathPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/FilePathPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/FilePathPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/FirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/FirstProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/MyName.class" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/MyName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/MyName.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/MyName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/Name1Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/Name1Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/NameInQuotes.class" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/NameInQuotes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/NameInQuotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/NameInQuotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/NameInTwoLines.class" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/NameInTwoLines.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/NameInTwoLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/NameInTwoLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/NamePattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/NamePattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/NamePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/NamePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/NamePatternWithSingleSopln.class" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/NamePatternWithSingleSopln.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/NamePatternWithSingleSopln.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/NamePatternWithSingleSopln.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/NamePrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/NamePrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/NamePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/NamePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/NamePrinterWithStars.class" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/NamePrinterWithStars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/NamePrinterWithStars.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/NamePrinterWithStars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/UseOfSpaceEscSeq.class" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/UseOfSpaceEscSeq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 - Java Basics/UseOfSpaceEscSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/UseOfSpaceEscSeq.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,14 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java Content/Java With Hari Krishna&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java Content/Java With Hari Krishna",
+    "onboarding.tips.debug.path": "D:/Java Content/Java With Hari Krishna/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/src/Main.java"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java Content\Java With Hari Krishna\CHAPTER 1 - JAVA FUNDAMENTALS\01 - 04 Java Basics" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -91,5 +70,16 @@
       <updated>1727977632668</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

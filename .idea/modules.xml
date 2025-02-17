@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/01 - 04 Java Basics.iml" filepath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/01 - 04 Java Basics/01 - 04 Java Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/05 - Data Types and Types of Data Types/05 - Data Types and Types of Data Types.iml" filepath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/05 - Data Types and Types of Data Types/05 - Data Types and Types of Data Types.iml" />
       <module fileurl="file://$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/06 - Reading Run Time Values/06 - Reading Run Time Values.iml" filepath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/06 - Reading Run Time Values/06 - Reading Run Time Values.iml" />
       <module fileurl="file://$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/CHAPTER 1 - JAVA FUNDAMENTALS.iml" filepath="$PROJECT_DIR$/CHAPTER 1 - JAVA FUNDAMENTALS/CHAPTER 1 - JAVA FUNDAMENTALS.iml" />
